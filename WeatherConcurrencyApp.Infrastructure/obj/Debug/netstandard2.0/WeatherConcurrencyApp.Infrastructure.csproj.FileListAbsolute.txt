@@ -1,0 +1,7 @@
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrencyApp.Common.dll
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.dll
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\bin\Debug\netstandard2.0\WeatherConcurrentApp.Domain.pdb
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Sistemas14\Downloads\WeatherConcurrencyApp-master\WeatherConcurrencyApp-master\WeatherConcurrencyApp.Infrastructure\obj\Debug\netstandard2.0\WeatherConcurrencyApp.Infrastructure.AssemblyInfo.cs
